@@ -1,4 +1,4 @@
-# Mini-Loja: Implementação de UI em 4 Versões de Estilização
+# Mini-Loja: Implementação 4 Versões de Estilização
 
 Este projeto é uma implementação de uma interface de usuário (UI) de mini-loja, desenvolvida com o objetivo de demonstrar e comparar quatro abordagens distintas de estilização em um ambiente React/Vite.
 
